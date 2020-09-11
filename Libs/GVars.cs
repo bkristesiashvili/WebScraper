@@ -55,9 +55,9 @@
         /// <summary>
         /// database connection string
         /// </summary>
-        internal static readonly string CONNECTION_STRING = @"workstation id=CryptoDb.mssql.somee.com;packet size=4096;
-                                                              user id=BEFX89_SQLLogin_1;pwd=cbofoyfl7b;
-                                                              data source=CryptoDb.mssql.somee.com;persist security info=False;
+        internal static readonly string CONNECTION_STRING = @"workstation id=;packet size=4096;
+                                                              user id=;pwd=;
+                                                              data source=;persist security info=False;
                                                               initial catalog=CryptoDb";
     }
 }
